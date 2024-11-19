@@ -1,6 +1,6 @@
 # Revenue Prediction in the Dairy Industry Using Machine Learning
 
-This repository contains my MSc dissertation project from **Queen's University Belfast**, titled **"Revenue Prediction inDairy  Industry Using Machine Learning Approach."** The project explores machine learning techniques to predict revenue in the dairy industry with high accuracy and reliability.
+This repository contains my MSc dissertation project from **Queen's University Belfast**, titled **"Revenue Prediction in Dairy  Industry Using Machine Learning Approach."** The project explores machine learning techniques to predict revenue in the dairy industry with high accuracy and reliability. Please view the **Dissertation** PDF File which contains both Research Report and Technical Report along with the code in the end.
 
 ---
 
